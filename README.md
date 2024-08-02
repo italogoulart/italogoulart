@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Information systems programmer**
 
-- 🌱 I’m currently learning **RPA Python - BotCity and Advanced English**
+- 🌱 I’m currently studying a bachelor's degree in **information systems and Advanced English**
 
 - 💬 Ask me about **Python , Excel , Glide**
 
