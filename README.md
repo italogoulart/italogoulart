@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently studying a bachelor's degree in **information systems and Advanced English**
 
-- 💬 Ask me about **Python , Excel , Glide**
+- 💬 Ask me about **Python , Excel and Enternet **
 
 - 📫 How to reach me **italocvo900@gmail.com**
 
