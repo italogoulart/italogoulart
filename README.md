@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ítalo Goulart</h1>
-<h3 align="center">Information technology student, future RPA developer.</h3>
+<h3 align="center">Information technology student.</h3>
 
 - 🔭 I’m currently working on **Information systems programmer**
 
