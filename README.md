@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently studying a bachelor's degree in **information systems and English**
 
-- 
-
 - 📫 How to reach me **italocvo900@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/%C3%ADtalo-c-goulart-o/](https://www.linkedin.com/in/%C3%ADtalo-c-goulart-o/)
